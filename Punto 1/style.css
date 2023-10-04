@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+div {
+    height: 150px;
+    width: 150px;
+    border: 2px dotted black;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 10px 10px 0px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 30px;
+}
+
+#cuadro-1 {
+    background-color: #49E;
+}
+
+#cuadro-2 {
+    background-color: #E49;
+}
+
+#cuadro-3 {
+    background-color: #9E4;
+}
+
+#cuadro-4 {
+    background-color: #E94;
+}
